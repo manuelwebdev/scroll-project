@@ -1,10 +1,10 @@
 const data = {
     proj1: {
-        placeholder: "Ping pong",
+        name: "Project 1",
         another: "Volleyball"
     },
     proj2: {
-        placeholder: "Snickers",
+        name: "Project 2",
         another: "Potato chips"
     }
 };
